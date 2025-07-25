@@ -1,0 +1,21 @@
+# Ignore large or binary files
+similarity.pkl
+*.pkl
+*.h5
+*.joblib
+*.xls
+*.xlsx
+*.csv
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+.venv/
+venv/
